@@ -1,0 +1,12 @@
+html,
+body {
+  margin: 0;
+}
+.box {
+  width: 800px;
+  margin: 20px auto 0 auto;
+}
+
+.detail {
+  font-weight: bold;
+}

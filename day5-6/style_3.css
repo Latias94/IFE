@@ -1,0 +1,42 @@
+html,
+body {
+  margin: 0;
+}
+.box {
+  width: 100%;
+  margin: 20px auto 0 auto;
+}
+
+.detail {
+  font-weight: bold;
+}
+.title {
+  padding-left: 20px;
+  height: 100px;
+  background-color: rgb(133, 133, 133);
+  color: white;
+  line-height: 100px;
+}
+
+section {
+  height: 150px;
+  border-bottom: 1px solid #666;
+}
+
+section h2 {
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  line-height: 150px;
+  background: #d6d6d6;
+  margin-top: 0;
+}
+
+.information {
+  display: inline-block;
+  padding: 10px 0 0 10px;
+}
+
+.information h4 {
+  margin: 0;
+}

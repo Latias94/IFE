@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+}
+.box {
+  width: 800px;
+  margin: 20px auto 0 auto;
+}
+
+.detail {
+  font-weight: bold;
+}
+.title {
+    float: left;
+    width: 200px;
+    height: 900px;
+    text-align: center;
+    background-color: rgb(101, 165, 250);
+    color: white;
+}
+
+.content {
+    padding-top: 10px;
+    margin-left: 230px;
+}
